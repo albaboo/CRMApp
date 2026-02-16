@@ -2,6 +2,8 @@
 
 **CRMApp** es una aplicación Android para la gestión de contactos y seguimientos, con soporte para múltiples idiomas, modo oscuro y sincronización con Firebase Realtime Database.
 
+More info [here](https://deepwiki.com/albaboo/CRMApp)
+
 ---
 
 ## 📌 Características
