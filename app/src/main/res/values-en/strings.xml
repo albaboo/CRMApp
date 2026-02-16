@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MiniCRM</string>
+    <string name="toolbar_title">MiniCRM</string>
+    <string name="toolbar_subtitle_settings">Application settings</string>
+    <string name="toolbar_subtitle_follow_ups">Follow-up list</string>
+    <string name="toolbar_subtitle_contacts">Contact list</string>
+    <string name="settings_preferences">PREFERENCES</string>
+    <string name="settings_notifications">Notifications</string>
+    <string name="settings_dark_mode">Dark Mode</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_language_spanish">Spanish</string>
+    <string name="settings_language_english">English</string>
+    <string name="settings_language_catalan">Catalan</string>
+    <string name="toolbar_subtitle_contact_detail">Contact details</string>
+    <string name="contact_detail_name">Name</string>
+    <string name="contact_detail_email">Email</string>
+    <string name="contact_detail_phone">Phone</string>
+    <string name="follow_up_detail_title">Title</string>
+    <string name="follow_up_detail_type">Type</string>
+    <string name="follow_up_detail_date">Date</string>
+    <string name="follow_up_detail_location">Location</string>
+    <string name="follow_up_detail_description">Description</string>
+    <string name="toolbar_subtitle_follow_up_detail">Follow-up details</string>
+    <string name="contact_detail_company">Company</string>
+    <string name="contact_card_see_more">View details</string>
+    <string name="follow_up_card_see_more">View details</string>
+    <string name="menu_contacts">CONTACTS</string>
+    <string name="menu_follow_ups">FOLLOW-UPS</string>
+    <string name="menu_settings">CONFIGURATION</string>
+</resources>

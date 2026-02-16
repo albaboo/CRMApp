@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MiniCRM</string>
+    <string name="toolbar_title">MiniCRM</string>
+    <string name="toolbar_subtitle_settings">Ajustaments de l\'aplicació</string>
+    <string name="toolbar_subtitle_follow_ups">Llista de seguiments</string>
+    <string name="toolbar_subtitle_contacts">Llista de contactes</string>
+    <string name="settings_preferences">PREFERÈNCIES</string>
+    <string name="settings_notifications">Notificacions</string>
+    <string name="settings_dark_mode">Mode fosc</string>
+    <string name="settings_language">Idioma</string>
+    <string name="settings_language_spanish">Espanyol</string>
+    <string name="settings_language_english">Anglès</string>
+    <string name="settings_language_catalan">Català</string>
+    <string name="toolbar_subtitle_contact_detail">Detalls de contacte</string>
+    <string name="contact_detail_name">Nom</string>
+    <string name="contact_detail_email">Email</string>
+    <string name="contact_detail_phone">Telèfon</string>
+    <string name="follow_up_detail_title">Títol</string>
+    <string name="follow_up_detail_type">Tipus</string>
+    <string name="follow_up_detail_date">Data</string>
+    <string name="follow_up_detail_location">Ubicació</string>
+    <string name="follow_up_detail_description">Descripció</string>
+    <string name="toolbar_subtitle_follow_up_detail">Detalls de seguiment</string>
+    <string name="contact_detail_company">Empresa</string>
+    <string name="contact_card_see_more">Veure detalls</string>
+    <string name="follow_up_card_see_more">Veure detalls</string>
+    <string name="menu_contacts">CONTACTES</string>
+    <string name="menu_follow_ups">SEGUIMENTS</string>
+    <string name="menu_settings">CONFIGURACIÓ</string>
+</resources>

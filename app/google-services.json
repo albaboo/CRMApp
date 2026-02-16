@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1021188690746",
+    "firebase_url": "https://crmapp-36939-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "crmapp-36939",
+    "storage_bucket": "crmapp-36939.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021188690746:android:2f0508c2b1301ab1ae7603",
+        "android_client_info": {
+          "package_name": "com.albaboo.crmapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd9RJksnTwf5r3WBYA6ck0cnXDob81vXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
