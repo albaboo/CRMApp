@@ -17,8 +17,14 @@
 ---
 
 ## 🚀 Capturas
-
-
+![Contacts](https://github.com/user-attachments/assets/bca4740d-e4ec-4b8a-9f21-100b780a8bc4)
+![Contact](https://github.com/user-attachments/assets/3565090f-ad1a-4d75-8a3d-815dcd895743)
+![FollowUps](https://github.com/user-attachments/assets/ee5772eb-3368-4b89-9c35-aa3249288c7d)
+![FollowUp](https://github.com/user-attachments/assets/688212ca-12cb-499a-8893-f2261c62b75a)
+![Settings](https://github.com/user-attachments/assets/83a5ef5d-f8a9-4308-8766-3c8adba36eec)
+![SettingsDark](https://github.com/user-attachments/assets/a07606d7-cb85-4963-9d4d-bc79e9e1bf04)
+![Settings-Langs](https://github.com/user-attachments/assets/4bc9baa0-6f95-492f-9f2f-1894b2d8bb17)
+![SettingsEsp](https://github.com/user-attachments/assets/bdb0506c-77f2-4282-9964-c2f265b24d7e)
 
 ---
 
