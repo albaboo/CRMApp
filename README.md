@@ -17,6 +17,7 @@
 ---
 
 ## 🚀 Capturas
+
 ![Contacts](https://github.com/user-attachments/assets/bca4740d-e4ec-4b8a-9f21-100b780a8bc4)
 ![Contact](https://github.com/user-attachments/assets/3565090f-ad1a-4d75-8a3d-815dcd895743)
 ![FollowUps](https://github.com/user-attachments/assets/ee5772eb-3368-4b89-9c35-aa3249288c7d)
